@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "smphelper",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "smphelper",
+    "password": "nihal1803",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "futuresSMP.aternos.me",
+    "port": 12113,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
